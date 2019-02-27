@@ -32,4 +32,8 @@ Then commit
 git commit -am "removed unwanted files"
 '''
 
-5. .gitignore file
+5. do a touch .gitignore file
+
+'''
+git commit -am "added ignore"
+'''
